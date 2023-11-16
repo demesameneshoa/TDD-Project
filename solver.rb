@@ -1,7 +1,7 @@
 class Solver
-    # Implementation for the reverse method
-    def reverse(word)
-      word.reverse
-    end
+ # Implementation for the reverse method
+ def reverse(word)
+  word.reverse
+ end
 end
   
