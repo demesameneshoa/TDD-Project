@@ -43,5 +43,15 @@ RSpec.describe Solver do
         expect(subject.fizzbuzz(number)).to eq(expected_result)
       end
     end
+
+    context 'when Number is 0 zero' do
+      it 'Should return Number as string "0"' do
+        number = 0
+
+        expected_result = '0'
+
+        expect(subject.fizzbuzz(number)).to eq(expected_result)
+      end
+    end
   end
 end
