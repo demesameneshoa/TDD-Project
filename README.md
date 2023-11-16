@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-# 📗 Table of Contents
+# 📗 TDD Project
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 TDD Project ](#-TDD-project-)
@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 School_Library <a name="TDD-project"></a>
+# 📖 TDD Project <a name="TDD-project"></a>
 
 In this Ruby project we implemented a class with methods, and also we have done it by doing test-driven development (TDD)
 
