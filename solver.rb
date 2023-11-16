@@ -1,9 +1,13 @@
 class Solver
   # Implementation for the reverse method
   def self.reverse(word)
-    raise ArgumentError, 'Input must be a string' unless word.is_a?(String)
+    raise ArgumentError, 'Input must be a string' unless word.is_a?(String) || word.is_a?(Array)
 
-    word.reverse
+    if word.is_a?(String)
+        word.reverse
+      elsif word.is_a?(Array)
+        word.reverse
+      end
   end
 
   def self.factorial(num)
