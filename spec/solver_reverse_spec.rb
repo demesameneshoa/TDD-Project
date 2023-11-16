@@ -1,6 +1,6 @@
 # spec_reverse_spec.rb
 
-require_relative 'reverse'
+require_relative '../solver'
 
 describe '#reverse' do
   context 'when a string is provided' do
