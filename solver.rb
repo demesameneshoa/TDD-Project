@@ -5,9 +5,9 @@ class Solver
 
     if word.is_a?(String)
         word.reverse
-      elsif word.is_a?(Array)
+    elsif word.is_a?(Array)
         word.reverse
-      end
+    end
   end
 
   def self.factorial(num)
