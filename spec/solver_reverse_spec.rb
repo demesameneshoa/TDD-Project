@@ -2,7 +2,7 @@
 
 require_relative '../solver'
 
-describe '#reverse' do
+RSpec.describe Solver do
   context 'when a string is provided' do
     it 'reverses the string' do
       expect(Solver.reverse('hello')).to eq('olleh')
