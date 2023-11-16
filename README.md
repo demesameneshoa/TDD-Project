@@ -96,14 +96,14 @@ rspec
 
 👤 **Arthur Emanuel G. Iturres**
 
--   GitHub: [@githubhandle](https://github.com/gdvl777)
+-   GitHub: [@ITurres](https://github.com/ITurres)
 -   Linkedin: [in](https://www.linkedin.com/in/arturoemanuelguerraiturres/)
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Demes Ameneshoa**
 
--   GitHub: [@githubhandle](https://github.com/demesameneshoa)
+-   GitHub: [@demesameneshoa](https://github.com/demesameneshoa)
 -   Linkedin: [in](https://linkedin.com/in/demes-ameneshoa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,7 +131,7 @@ Feel free to check the [issues page](https://github.com/demesameneshoa/TDD-Proje
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project or if it helped you, please give a ⭐️. I'd really appreciate it!
+If you like this project or if it helped you, please give a ⭐️. We'd really appreciate it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
