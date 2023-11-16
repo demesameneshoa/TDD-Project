@@ -1,4 +1,3 @@
-
 <a name="readme-top"></a>
 
 # 📗 TDD Project
@@ -28,11 +27,9 @@ In this Ruby project we implemented a class with methods, and also we have done 
 
 The project is built using ruby.
 
-
 ### Tech Stack <a name="tech-stack"></a>
 
 The project is built using the following technologies:
-
 
 <details>
 <summary>Ruby</summary>
@@ -51,7 +48,6 @@ The project is built using the following technologies:
 - **Tests validated**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
@@ -77,34 +73,35 @@ To test this project with rspec.
 ```
 bundle install
 ```
+
 2. Run rspec tests :
 
 ```
 rspec
 ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Daniel Villalba L**
 
--   GitHub: [@gdvl777](https://github.com/gdvl777)
--   Linkedin: [in](https://linkedin.com/in/dvillalba777)
-
+- GitHub: [@gdvl777](https://github.com/gdvl777)
+- Linkedin: [in](https://linkedin.com/in/dvillalba777)
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Arthur Emanuel G. Iturres**
 
--   GitHub: [@ITurres](https://github.com/ITurres)
--   Linkedin: [in](https://www.linkedin.com/in/arturoemanuelguerraiturres/)
+- GitHub: [@ITurres](https://github.com/ITurres)
+- Linkedin: [in](https://www.linkedin.com/in/arturoemanuelguerraiturres/)
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Demes Ameneshoa**
 
--   GitHub: [@demesameneshoa](https://github.com/demesameneshoa)
--   Linkedin: [in](https://linkedin.com/in/demes-ameneshoa/)
+- GitHub: [@demesameneshoa](https://github.com/demesameneshoa)
+- Linkedin: [in](https://linkedin.com/in/demes-ameneshoa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +127,6 @@ Feel free to check the [issues page](https://github.com/demesameneshoa/TDD-Proje
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project or if it helped you, please give a ⭐️. We'd really appreciate it!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -143,15 +139,10 @@ We would like to thank Microverse and all our peers and colleagues at Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](MIT.md).
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
