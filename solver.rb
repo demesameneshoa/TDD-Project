@@ -17,4 +17,23 @@ class Solver
 
     (1..num).reduce(:*)
   end
+
+  def fizzbuzz(number)
+    return '0' if number.zero?
+
+    # * More scalable if new conditions are added,
+    # * i.e: adding "bang" for numbers divisible by 7, etc.
+    divisibility_patterns = {
+      3 => 'fizz',
+      5 => 'buzz'
+    }
+
+    result = divisibility_patterns.map do |divisible, word|
+      word if (number % divisible).zero?
+    end.compact # * compact removes nil values
+
+    return number.to_s if result.empty?
+
+    result.join
+  end
 end
