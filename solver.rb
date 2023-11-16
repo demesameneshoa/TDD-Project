@@ -3,11 +3,7 @@ class Solver
   def self.reverse(word)
     raise ArgumentError, 'Input must be a string' unless word.is_a?(String) || word.is_a?(Array)
 
-    if word.is_a?(String)
-      word.reverse
-    elsif word.is_a?(Array)
-      word.reverse
-    end
+    word.reverse if word.is_a?(String)
   end
 
   def self.factorial(num)
