@@ -9,6 +9,6 @@ class Solver
 
     return 1 if num.zero?
 
-    (1..n).reduce(:*)
+    (1..num).reduce(:*)
   end
 end
