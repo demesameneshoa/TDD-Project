@@ -2,6 +2,7 @@ class Solver
   # Implementation for the reverse method
   def self.reverse(word)
     raise ArgumentError, "Input must be a string" unless word.is_a?(String)
+    
     word.reverse
   end
 
