@@ -4,9 +4,9 @@ class Solver
     raise ArgumentError, 'Input must be a string' unless word.is_a?(String) || word.is_a?(Array)
 
     if word.is_a?(String)
-        word.reverse
+      word.reverse
     elsif word.is_a?(Array)
-        word.reverse
+      word.reverse
     end
   end
 
