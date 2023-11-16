@@ -13,7 +13,7 @@ describe '#reverse' do
   context 'when an array is provided' do
     it 'reverses the array' do
       expect(reverse([1, 2, 3])).to eq([3, 2, 1])
-      expect(reverse(['a', 'b', 'c'])).to eq(['c', 'b', 'a'])
+      expect(reverse(%w[a b c])).to eq(%w[c b a])
     end
   end
 
