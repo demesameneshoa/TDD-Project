@@ -1,6 +1,6 @@
 class Solver
   # Implementation for the reverse method
-  def reverse(word)
+  def self.reverse(word)
     word.reverse
   end
 
